@@ -114,6 +114,7 @@ html{
 #intro h2{
     font-size: 2rem;
     margin-bottom: 20px;
+    color: rgb(157, 193, 131);
 }
 /* portfolio section */
 #portfolio{
@@ -223,4 +224,12 @@ html{
 }
 .btn-social{
     text-align: center;
+}
+
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  border-radius: 50%;
 }
